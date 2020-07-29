@@ -9,7 +9,7 @@ weight: 4
 
 Hi I am **{{ site.author.name }}**,<br>
 
-I am an undergraduate student pursuing BE (Hons) in Computer Science at BITS Pilani, India. **I am an Upcoming SWE intern** at [Nutanix, Bangalore](https://www.nutanix.com/en) and have previously worked as an **SDE intern 2020** at [Samsung Resarch Institute-Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Biomedical Imaging, Computer Vision and Deep Learning, and Blockchain Development**.
+I am an undergraduate student pursuing BE (Hons) in Computer Science at BITS Pilani, India. I am an **Upcoming SWE intern** at [Nutanix, Bangalore](https://www.nutanix.com/en) and have previously worked as an **SDE intern 2020** at [Samsung Resarch Institute - Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Biomedical Imaging, Computer Vision and Deep Learning, and Blockchain Development**.
 
 I also like to spend my time on solving algorithmic problems on online platforms like codeforces and LeetCode.
 
