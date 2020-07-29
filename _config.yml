@@ -1,0 +1,81 @@
+### Site Settings ###
+title               : Rohit Jain
+description         : >-
+                      "Hi, I am Rohit Jain! I am a Computer Science Undergraduate at BITS Pilani, India and an 
+                      upcoming SWE intern at Nutanix - Bangalore."
+                      
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Rohit2706/Rohit2706.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Rohit Jain
+  image             : ./images/profile.jpeg
+# behance           : your_username
+# dribbble          : your_username
+  email             : rohitjain2706@gmail.com
+  facebook          : rohitjain2706
+  github            : Rohit2706
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : rohit-jain-01
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus: rohitjain                         # Your website Shortname on disqus
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

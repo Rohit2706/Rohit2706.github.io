@@ -1,0 +1,15 @@
+- name: IBM SPSS
+  percentage: 85
+  color: success
+
+- name: Adobe Illustrator
+  percentage: 70
+  color: info
+
+- name: Pytorch/Tensorflow
+  percentage: 50
+  color: dark
+
+- name: Blockchain Programming
+  percentage: 50
+  color: danger
