@@ -2,7 +2,7 @@
   from: August 2020
   to: December 2020
   description: Worked on a tool for spontaneous migration of data to faster storage tiers. Built an error injection 
-               framework for explicitly failing RPC requests for simulation of degraded distributed cluster.Extended 
+               framework for explicitly failing RPC requests for simulation of degraded distributed cluster. Extended 
                the framework for detection of slow nodes with less false positives and minimal overheads for monitoring insights.
 
 - title: SWE Intern, AI Vision, Samsung Research Institute - Bangalore
