@@ -6,7 +6,7 @@
   percentage: 70
   color: info
 
-- name: Pytorch/Tensorflow
+- name: Pytorch
   percentage: 40
   color: dark
 
