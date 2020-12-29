@@ -7,9 +7,9 @@
   color: info
 
 - name: Pytorch/Tensorflow
-  percentage: 50
+  percentage: 40
   color: dark
 
 - name: Blockchain
-  percentage: 50
+  percentage: 40
   color: danger
