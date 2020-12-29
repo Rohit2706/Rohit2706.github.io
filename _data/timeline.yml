@@ -1,17 +1,17 @@
-- title: SWE Intern, Nutanix - Bangalore
+- title: MTS Intern, Nutanix - Bangalore
   from: August 2020
-  to: Present
-  description: Currently working on building C++ APIs for spontaneous and efficient tier 
-               migration of data and building algorithm for detection of slow nodes in the
-               network with less false positives and minimal overheads.
-
+  to: December 2020
+  description: Worked on a tool for spontaneous migration of data to faster storage tiers. Built an error injection 
+               framework for explicitly failing RPC requests for simulation of degraded distributed cluster.Extended 
+               the framework for detection of slow nodes with less false positives and minimal overheads for monitoring insights.
 
 - title: SWE Intern, AI Vision, Samsung Research Institute - Bangalore
   from: May 2020
   to: July 2020
-  description: Created an android application that learns the user color-tone
-               preferences via on-device learning approach. Trained a GAN-based
-               Model for user behaviour learning in a few shot meta-learning scenario.
+  description: Created an android application that learns the user color-tone preferences
+               via on-device learning approach. Trained a Meta-translational GAN-based 
+               Model for user behaviour learning in a few shot meta-learning scenario and 
+               achieved good qualitative results
 
 - title: Teaching Assistant, CSIS Dept, BITS Pilani
   from: Jan 2020
