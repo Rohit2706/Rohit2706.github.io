@@ -13,7 +13,3 @@
 - name: Java
   percentage: 30
   color: secondary
-
-- name: R/MATLAB
-  percentage: 30
-  color: warning

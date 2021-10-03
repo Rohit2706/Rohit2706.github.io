@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Rohit Jain
 description         : >-
-                      "Hi, I am Rohit Jain! I am a Computer Science Undergraduate at BITS Pilani, India and have previously interned at 
-                      Nutanix Technologies and Samsung R&D, Bangalore. I am open to Spring Internship Roles in Software Engineering/Data Science
-                      starting Jan'21"
+                      Hi, I am Rohit Jain! I am a majors in Computer Science from BITS Pilani, India and currently working as
+                      a Software Engineer at Nutanix.
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Rohit2706/Rohit2706.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)

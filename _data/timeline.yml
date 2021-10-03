@@ -1,11 +1,27 @@
-- title: MTS Intern, Nutanix - Bangalore
+- title: MTS-1, Nutanix - Bangalore, India
+  from: June 2021
+  to: Present
+  description: Working on providing real-time monitoring insights for synchronous replication
+               based disaster recovery strategies on protected entities.
+               Implemented guaranteed hosting of network interfaces on different
+               physical nodes to provide multi-path IO services to clients, decreasing iSCSI
+               reconnection latencies from 5s to under 0.3ms.
+
+- title: Teaching Assistant, CSIS Dept, BITS Pilani
+  from: Jan 2021
+  to: May 2021
+  description: Assisted over 70+ students in weekly laboratory sessions in learning IBM SPSS and Python
+               for Data Mining techniques. Helped in preparing content for laboratory exercises, framing
+               questions for evaluation components, and evaluating answer sheets for the course.
+
+- title: MTS Intern, Nutanix - Bangalore, India (Remote)
   from: August 2020
   to: December 2020
   description: Worked on a tool for spontaneous migration of data to faster storage tiers. Built an error injection 
                framework for explicitly failing RPC requests for simulation of degraded distributed cluster. Extended 
                the framework for detection of slow nodes with less false positives and minimal overheads for monitoring insights.
 
-- title: SWE Intern, AI Vision, Samsung Research Institute - Bangalore
+- title: SWE Intern, AI Vision, Samsung Research Institute - Bangalore, India (Remote)
   from: May 2020
   to: July 2020
   description: Created an android application that learns the user color-tone preferences
@@ -16,11 +32,11 @@
 - title: Teaching Assistant, CSIS Dept, BITS Pilani
   from: Jan 2020
   to: May 2020
-  description: Assisted over 70+ students in weekly laboratory sessions in learning IBM SPSS and Python 
-               for Data Mining techniques. Helped in preparing content for laboratory exercises, framing 
+  description: Assisted over 70+ students in weekly laboratory sessions in learning IBM SPSS and Python
+               for Data Mining techniques. Helped in preparing content for laboratory exercises, framing
                questions for evaluation components, and evaluating answer sheets for the course.
 
-- title: Research Intern, CSIR-IGIB, New Delhi
+- title: Research Intern, CSIR-IGIB, New Delhi, India
   from: May 2019
   to: July 2019
   description: Worked under Dr. Mitali Mukherjee, Chief Scientist, CSIR-IGIB on phenotypic data consisting of 
@@ -30,10 +46,10 @@
                data visualization, which is being used by the organization for further research in the field of 
                Precision Medicine.
 
-- title: Head of Design, TEDxBITSPilani
+- title: Head of Design, TEDxBITSPilani, BITS Pilani, India
   from: April 2019
   to: April 2020
-  description: UI/ UX team lead responsible for graphic designing for on-campus and off-campus publicity of the TEDx 
+  description: UI/UX team lead responsible for graphic designing for on-campus and off-campus publicity of the TEDx
                event. Handled the production department, including on day technology and photography.
 
                

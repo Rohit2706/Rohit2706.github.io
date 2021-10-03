@@ -9,7 +9,7 @@ weight: 4
 
 Hi I am **{{ site.author.name }}**,<br>
 
-I am an undergraduate student pursuing BE (Hons) in Computer Science at BITS Pilani, India. I have recently completed my internship as an **MTS Intern** at [Nutanix, Bangalore](https://www.nutanix.com/en) and have previously worked as an **SDE intern** at [Samsung Resarch Institute - Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Biomedical Imaging, Computer Vision and Deep Learning, and Blockchain Development**.
+I am a majors in Computer Science from BITS Pilani, India and currently working as a Software Engineer at [Nutanix, Bangalore](https://www.nutanix.com/en). I have previously worked as an **MTS Intern** at [Nutanix, Bangalore](https://www.nutanix.com/en) and  **SDE intern** at [Samsung Resarch Institute - Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Software Engineering, Distributed Systems, Operating Systems, Sytem Design and Algorithms**
 
 I also like to spend my time on solving algorithmic problems on online platforms like codeforces and [LeetCode](https://leetcode.com/rohit2706/).
 
@@ -20,10 +20,15 @@ I have also done [projects](../projects) in the domains of:
 * Compiler Design
 and others...
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+# **Skills**
+
+**Languages:** C++, C, Python
+
+**Frameworks:** Pytorch, Tensorflow
+
+**Technology:** Git, Linux
+
+**Softwares:** IBM SPSS, Wireshark
 
 # **Experience**
 <div class="row">
@@ -43,10 +48,11 @@ Implemented the research paper ‘A Unified Entropy-Based Distance Metric for Or
 
 # **Certifications**
 <br>
-I have completed the following certified courses on coursera:
+I have completed the following certified courses:
 
-1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
-2. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) (Coursera)
+2. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Coursera)
+3. Agile Software Development (LinkedIn Learning)
 
 <br>
 <br>
