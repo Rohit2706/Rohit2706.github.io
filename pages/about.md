@@ -9,7 +9,7 @@ weight: 4
 
 Hi I am **{{ site.author.name }}**,<br>
 
-I am a majors in Computer Science from BITS Pilani, India and currently working as a Software Engineer at [Nutanix, Bangalore](https://www.nutanix.com/en). I have previously worked as an **MTS Intern** at [Nutanix, Bangalore](https://www.nutanix.com/en) and  **SDE intern** at [Samsung Resarch Institute - Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Software Engineering, Distributed Systems, Operating Systems, Sytem Design and Algorithms**
+I am a majors in Computer Science from BITS Pilani, India and currently working as a Software Engineer at [Rubrik, Bangalore](https://www.rubrik.com/). I have previously worked as an **MTS-2** at [Nutanix, Bangalore](https://www.nutanix.com/en) and  **SDE intern** at [Samsung Resarch Institute - Bangalore](https://research.samsung.com/sri-b). I have always been enthusiastic about recent trends in Computer Science and keenly interested in the domains of **Software Engineering, Distributed Systems, Operating Systems, System Design and Algorithms**
 
 I also like to spend my time on solving algorithmic problems on online platforms like codeforces and [LeetCode](https://leetcode.com/rohit2706/).
 
@@ -22,13 +22,13 @@ and others...
 
 # **Skills**
 
-**Languages:** C++, C, Python
+**Languages:** C++, C, Python, Scala
 
 **Frameworks:** Pytorch, Tensorflow
 
-**Technology:** Git, Linux
+**Technology:** Git, Linux, NFS, iSCSI, NFS
 
-**Softwares:** IBM SPSS, Wireshark
+**Softwares:** IBM SPSS, Wireshark, Postgres
 
 # **Experience**
 <div class="row">
@@ -37,6 +37,14 @@ and others...
 <br><br>
 
 # **Publications**
+<br>
+#### **Patent (Nutanix): Technique for improved oplog flushing**<br>
+Filing date: June, 2024  File at: US and India Patent Offices
+
+Patent forimproving temporary write buffer(oplog) flushing, achieving eightfold performance gains by optimizing drain
+speeds for consistent I/O performance during various states (e.g., idle,rebuild) when serviced by the persistent storage
+tier or SSD-based oplog.
+
 <br>
 #### **Entropy-Based Distance Metric (EBDM)**<br>
 Publication date: Jan 26, 2020  Published at: PyPi
@@ -52,7 +60,8 @@ I have completed the following certified courses:
 
 1. [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) (Coursera)
 2. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Coursera)
-3. Agile Software Development (LinkedIn Learning)
+3. [Machine Learning](https://www.coursera.org/account/accomplishments/verify/RM9MRM882728) (Coursera)
+4. Agile Software Development (LinkedIn Learning)
 
 <br>
 <br>

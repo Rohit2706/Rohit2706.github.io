@@ -2,7 +2,7 @@
 title               : Rohit Jain
 description         : >-
                       Hi, I am Rohit Jain! I am a majors in Computer Science from BITS Pilani, India and currently working as
-                      a Software Engineer at Nutanix.
+                      a Software Engineer at Rubrik.
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Rohit2706/Rohit2706.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -31,7 +31,7 @@ author:
   facebook          : rohitjain2706
   github            : Rohit2706
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : _.musafirana
 # kaggle            : your_username
   linkedin          : rohit-jain-01
 # medium            : your_username
